@@ -29,9 +29,8 @@ const navigationItems = [
   { id: "overview", label: "Overview", icon: Home },
   { id: "map", label: "Farm Map", icon: Map },
   { id: "sensors", label: "Sensor Data", icon: Activity },
-  { id: "pest", label: "Pest Detection", icon: Bug },
   { id: "alerts", label: "Alerts", icon: Bell },
-  { id: "upload", label: "Image Upload", icon: Upload },
+  { id: "upload", label: "Pest Detection", icon: Bug },
   { id: "registration", label: "Farm Registration", icon: Leaf },
 ];
 
